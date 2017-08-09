@@ -1,4 +1,4 @@
-# Application List
+# Host and run applications on GitHub
 
 <a href='https://woolcock-imr.github.io/catchup09/index.html'>https&#58;//woolcock-imr.github.io/<b>catchup09</b>/index.html</a>  
 <a href='https://woolcock-imr.github.io/cfs-nrs/index.html'>https&#58;//woolcock-imr.github.io/<b>cfs-nrs</b>/index.html</a>  
