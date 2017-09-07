@@ -1,10 +1,10 @@
 # Host and run applications on GitHub
 
 Applications  
-https://woolcock-imr.github.io/volunteer-database/index.html  
-https://woolcock-imr.github.io/windfarm/index.html  
-https://woolcock-imr.github.io/powersleep-registration/index.html  
-https://woolcock-imr.github.io/powersleep-registration-management/index.html  
+https://woolcock-imr.github.io/volunteer-database/index.html (public database)  
+https://woolcock-imr.github.io/windfarm/index.html (public database)  
+https://woolcock-imr.github.io/powersleep-registration/index.html (private database)  
+https://woolcock-imr.github.io/powersleep-registration-management/index.html (private database)  
 
 Templates  
 https://woolcock-imr.github.io/template-001/index.html (Woolcock project template 001)  
